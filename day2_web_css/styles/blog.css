@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+}
+.blog{
+    background-color: aquamarine;
+    border: 5px solid tomato;
+    border-radius: 10px;
+    border-bottom: none;
+    /* border-right: 20px solid salmon; */
+    /* margin: 10px 30px 60px 120px; */
+    margin: 20px;
+    padding: 20px;
+    text-align: justify;
+    width: 50%;
+    height: 50%;
+    box-shadow: 10px 10px 10px blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+}
+.vanish{
+    /* display: none; */
+    /* visibility: hidden; */
+}
+h2{
+    font-size: 30px;
+    text-decoration: overline underline;
+}
